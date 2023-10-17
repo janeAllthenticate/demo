@@ -14,3 +14,5 @@ echo "export SSH_AUTH_SOCK=$HOME/.ssh/allthenticate-agent.sock" >> ~/.zshenv
 # bash
 echo "export SSH_AUTH_SOCK=$HOME/.ssh/allthenticate-agent.sock" >> ~/.bashrc
 ```
+
+Nick Steele loves SSH signing
